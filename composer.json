@@ -1,0 +1,16 @@
+{
+    "name": "gestion profil",
+    "type": "project",
+    "description": "gerer les profil pour un systeme de gestion de stock",
+
+    "authors": [
+        {
+            "name": "nadhmi",
+            "role": "Developer"
+        }
+    ],
+    
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
